@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Turtle Chronoboon Timers
+## Author: Xerron/Er, Edit by Zaas
+## Version: 1.0.0
+## Notes: Chronoboon Buff Timers for TurtleWoW
+## SavedVariablesPerCharacter: BOON_BUFFS
+ChronoboonDisplacer.lua
